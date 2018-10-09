@@ -1,0 +1,65 @@
+a {
+	color: black;
+	text-decoration: none;
+}
+
+body {
+	font-family: "Calibri", serif;
+	font-size: 14pt;
+	color: black;
+	background-color: #D9D9D9;
+}
+
+.titletext {
+	font-family: "Comfortaa", "Bahnschrift", Verdana;
+	font-size: 32pt;
+}
+
+#headerbox {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	padding: 20px;
+	color: #0012E6;
+	background-color: rgba(204, 204, 250, 0.75);
+}
+
+#profileinfo, .postbox {
+	position: relative;
+	padding: 10px;
+	margin: 10px;
+	background-color: #FFFFFF;
+}
+
+#profileinfo {
+	left: 25%;
+	top: 100px;
+	width: 50%;
+}
+
+.postbox {
+	left: 30%;
+	top: 100px;
+	width: 40%;
+}
+
+#mainprofilepic {
+	width: 7%;
+}
+
+#mainnametag, .nametag {
+	font-family: "Antonio", sans-serif;
+}
+
+#mainnametag {
+	font-size: 20pt;
+}
+
+.profilepic {
+	width: 5%;
+}
+
+.nametag {
+	font-size: 15pt;
+}
